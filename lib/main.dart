@@ -19,7 +19,6 @@ class XylophoneApp extends StatelessWidget {
             borderRadius: BorderRadius.circular(60.0),
           ),
           child: Container(
-            padding: EdgeInsets.symmetric(vertical: 9, horizontal: 0),
             decoration: BoxDecoration(
               borderRadius: BorderRadius.all(
                 Radius.circular(50.0),
@@ -31,6 +30,7 @@ class XylophoneApp extends StatelessWidget {
             ),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
+              crossAxisAlignment: CrossAxisAlignment.stretch,
               children: <Widget>[
                 CircleAvatar(
                   backgroundColor: accent,
