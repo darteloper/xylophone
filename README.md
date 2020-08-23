@@ -6,7 +6,7 @@ Flutter is Google's UI toolkit for building beautiful, natively compiled applica
 
 ## About Xylophone
 
-This repository features a music application that plays Xylophone sounds. For every Beethoven there is, this will allow you to unleash your musical talent wherever you are.
+This repository features a music app that plays sounds from a xylophone. For every Beethoven there is, this will allow you to unleash your musical talent wherever you are.
 
 <img src="xylophone.gif" width="300">
 
